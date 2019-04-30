@@ -1,2 +1,2 @@
 # LinkifySample
-Sample android application which uses textoo library to demostrate Linkify
+Sample android application which uses textoo library to demonstrate Linkify
